@@ -1,5 +1,5 @@
 
-# 🤖 Claude + n8n Prompt: Auto-Generate AI Agent Workflows
+# 🤖 n8n Prompt: Auto-Generate AI Agent Workflows
 
 This prompt helps you use Claude (or another capable LLM) to automate the generation of complete, production-ready n8n workflows using the AI Agent module. These prompts are based on the strategy demonstrated in the [referenced video](https://youtu.be/u2NluvotA80?si=Ol14JuL5kkEAr13c) and are optimized for generating valid, functional JSON workflows for AI-powered automations.
 
